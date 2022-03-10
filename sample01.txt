@@ -2,3 +2,5 @@
 
 git reset --hard 되돌아갈 커밋
 개발 브랜치에서 수정한 내용
+
+git remote add {별칭} {URL주소}
